@@ -1,4 +1,5 @@
 # CS4177PoodleAttack
+- Aryn Parker & Ivan Perez
 Resources to create and run an exercise on the POODLE attack 
 
 ## Setup
